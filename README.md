@@ -1,1 +1,1 @@
-<img alt="" src="https://github.com/Darkcarnage23/Darkcarnage23/blob/metrics.classic.svg" alt=""></img>
+<img width="500" src="https://raw.githubusercontent.com/Darkcarnage23/Darkcarnage23/main/metrics.classic.svg" alt="Profile" />
